@@ -1,3 +1,5 @@
+#don't copy in Dov's emacs backup files
+*~
 # Compiled class file
 *.class
 
