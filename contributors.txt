@@ -1,6 +1,4 @@
 Dov Kruger
-thisisme
-thisisyou
 <<<<<<< HEAD
 manish balakrishnan 
 =======
