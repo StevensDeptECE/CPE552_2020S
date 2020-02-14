@@ -1,4 +1,8 @@
 Dov Kruger
 thisisme
 thisisyou
+<<<<<<< HEAD
 manish balakrishnan 
+=======
+Joseph Kuhn
+>>>>>>> 587f52fd213283985489ff440fa58b13ea700c7d
