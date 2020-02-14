@@ -1,8 +1,8 @@
 Dov Kruger
-<<<<<<< HEAD
-manish balakrishnan 
-=======
+Manish Balakrishnan 
 Joseph Kuhn
->>>>>>> 587f52fd213283985489ff440fa58b13ea700c7d
+manish balakrishnan 
 Abhishek Sangani
+Boyang Li
 Daniel Brescia
+Haoran Peng
